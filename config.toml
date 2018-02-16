@@ -51,11 +51,12 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Distributed Artificial Intelligence on the Edge"
-  role = "A University of Oulu research collective"
+  role = "An Analytics+ and University of Oulu research initiative"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Oulu", url = "http://www.oulu.fi" } ]
+  organizations = [ { name = "University of Oulu", url = "http://www.oulu.fi" },
+                    { name = "Analytics+", url = "http://analytics.plus" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

@@ -26,6 +26,5 @@ weight = 10
 
 # About
 
-Edge AI is a collection of research projects and groups, all revolved a commong theme: bringing intelligence to the edges of the networks, near to where the data is collected. 
-
+Edge AI is a research collective, originating from the [Analytics+](http://analytics.plus) growth network of researchers and companies specializing in AI and data analytics. The collective brings together research projects and groups and involved businesses, all revolved a commong theme: bringing intelligence to the edges of the networks, near to where the data is collected. 
 
