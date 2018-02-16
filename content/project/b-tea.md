@@ -9,7 +9,7 @@ title = "Bayesian Trusted Edge Analytics"
 summary = "Distributed data analysis for IoT applications."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "btea.png"
+image_preview = "adhoc.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

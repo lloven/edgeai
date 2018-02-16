@@ -1,6 +1,6 @@
 +++
 title = "Energy Efficient Opportunistic Edge Computing for the Internet of Things"
-date = "2018"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Teemu Leppänen", "Jukka Riekki"]
