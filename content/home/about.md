@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Distributed Computing",
-    "Edge Computing"
+    "Edge Computing",
+    "IoT"
   ]
 
 # List your qualifications (such as academic degrees).
