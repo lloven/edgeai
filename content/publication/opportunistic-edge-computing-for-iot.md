@@ -17,7 +17,7 @@ authors = ["Teemu Leppänen", "Jukka Riekki"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Web Intelligence*, IEEE."
+publication = "In *Web Intelligence*"
 publication_short = "In *Web Intelligence*"
 
 # Abstract and optional shortened version.
