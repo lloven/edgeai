@@ -33,12 +33,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Machine Learning"
+  tag = ".machine-learning"
+
+[[filter]]
+  name = "Edge Computing"
+  tag = ".edge-computing"
 
 [[filter]]
   name = "Other"
-  tag = ".demo"
+  tag = ".other"
 
 +++
 
