@@ -28,7 +28,7 @@ weight = 10
 
 Edge AI is a research collective, originating from the [Analytics+](http://analytics.plus) growth network of researchers and companies specializing in AI and data analytics. The collective brings together research projects and groups and involved businesses, all revolved a commong theme: bringing intelligence to the edges of the networks, near to where the data is collected. 
 
-Currently, the following research units are involved:
+Currently, the following University of Oulu research units are involved:
 
 * [Center for Ubiquitous Computing](http://ubicomp.oulu.fi)
 * [Center for Wireless Comminucations - Networks and Systems](http://www.oulu.fi/cwc/research-groups/cwc-ns-networks-and-systems)
