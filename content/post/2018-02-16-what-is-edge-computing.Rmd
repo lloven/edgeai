@@ -27,6 +27,14 @@ Edge computing tries to solve the data centralization problems by -- distributio
 
 ![](/img/edge.jpg){width=50%} 
 
+The EC architecture, illustrated above, has largely been drafted by network infrastructure providers. These providers are aiming, among other things, to increase the value of their offering. Making network infrastructure devices smarter by allowing their computing resources be used by the applications is an obvious way of increasing their value. 
+
+However, while improving on the vertical model, the architecture still has some limitations. While greatly reducing the latencies, EC still forces a data round trip: raw data from the sensor devices to the Edge for analysis, back with the results and control messages. Further, the network topology necessarily seeps to the application level, requiring the application developer to understand the Edge host's in-between position. 
+
+Yet another architecture, often referred to as the "Ad-hoc Cloud", attempts to address these issues. Illustrated below, the Ad-hoc Cloud takes advantage of all available computing resources, aggregating computational resources from both the nearby end devices, the Edge, and the Cloud. Thus, the architecture decouples the network topology from the application execution, allowing computational upload decisions to be made based on a cost/benefit calculation of the resources and transmission channels available.  
+
+![](/img/adhoc.jpg){width=50%} 
+
 Further reading:
 
 * [Mach, P., & Becvar, Z. (2017). Mobile Edge Computing: A Survey on Architecture and Computation Offloading, 19(3), 1628–1656. https://doi.org/10.1109/COMST.2017.2682318](http://arxiv.org/abs/1702.05309)
