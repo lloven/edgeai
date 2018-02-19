@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Distributed Artificial Intelligence on the Edge"
+  name = "Edge AI"
   role = "An Analytics+ and University of Oulu research collective"
 
   # Organizations/Affiliations.
@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = ""
+  email = "edgeai@lists.oulu.fi"
   address = "Faculty of Information Technology and Electrical Engineering, University of Oulu, Erkki Koiso-Kanttilan katu 5, 90570 Oulu, Finland"
   office_hours = ""
   phone = ""
@@ -215,10 +215,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-#  [[params.social]]
-#    icon = "envelope"
-#    icon_pack = "fa"
-#    link = "mailto:test@example.org"
+  [[params.social]]
+   icon = "envelope"
+   icon_pack = "fa"
+   link = "mailto:edgeai@lists.oulu.fi"
 
   [[params.social]]
     icon = "twitter"
